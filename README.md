@@ -12,10 +12,6 @@
 
 ###
 
-<h2 align="left">Frameworks and libraries</h2>
-
-###
-
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning cybersecurity dan backend development<br>🎲 Fun fact: Not now i guess</p>
 
 ###
@@ -41,6 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
+
+###
+
+<h2 align="left">Frameworks and libraries</h2>
 
 ###
 
