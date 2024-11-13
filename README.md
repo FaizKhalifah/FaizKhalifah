@@ -18,6 +18,9 @@ Hi, i'm Muhammad Alfaiz, but you can call me Faiz. I'm currently an undergraduat
 ![Mongoose](https://img.shields.io/badge/Mongoose-901403?style=for-the-badge)
 ![Eloquent](https://img.shields.io/badge/Eloquent-f11c06?style=for-the-badge)
 
+## Tools
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+
 ## Package Manager
 ![NPM](https://img.shields.io/badge/NPM-c91800?style=for-the-badge)
 
