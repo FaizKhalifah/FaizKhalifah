@@ -8,7 +8,7 @@ Hi, i'm Muhammad Alfaiz, but you can call me Faiz. I'm currently an undergraduat
 
 
 ## Frameworks & libraries
-![Express](https://img.shields.io/badge/Express-white?style=for-the-badge) ![vue](https://img.shields.io/badge/vue-0acd6c?style=for-the-badge) ![Laravel](https://img.shields.io/badge/Laravel-f11c06?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-white?style=for-the-badge) ![vue](https://img.shields.io/badge/vue-0acd6c?style=for-the-badge) ![Laravel](https://img.shields.io/badge/Laravel-f11c06?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge)
 
 
 
