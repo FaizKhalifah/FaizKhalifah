@@ -20,6 +20,7 @@ Hi, i'm Muhammad Alfaiz, but you can call me Faiz. I'm currently an undergraduat
 
 ## Tools
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+![Dbeaver](https://img.shields.io/badge/Dbeaver-chocolate?style=for-the-badge)
 
 ## Package Manager
 ![NPM](https://img.shields.io/badge/NPM-c91800?style=for-the-badge)
