@@ -1,7 +1,6 @@
 # About Me:
 Hi, i'm Muhammad Alfaiz, but you can call me Faiz. I'm currently an undergraduate student majoring in informatics engineering. I'm an enthusiast in software development and software infrastructure. I'm still a learner though. So let's grow and learn together :)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/FaizKhalifah/svg/avgupta456/langs)](https://githubtrends.io)
 
 # Tech stack i've used and currently learning
 ## languages
